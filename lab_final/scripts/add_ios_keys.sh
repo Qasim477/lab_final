@@ -41,3 +41,4 @@ security set-key-partition-list -S apple-tool:,apple:,codesign: -s -k "" "$KEYCH
 
 # Print out installed code signing identities
 # security find-identity -v -p codesigning
+
