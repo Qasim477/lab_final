@@ -9,5 +9,5 @@ require (
 	github.com/go-flutter-desktop/plugins/path_provider v0.4.0
 	github.com/go-flutter-desktop/plugins/shared_preferences v0.4.3
 	github.com/go-flutter-desktop/plugins/url_launcher v0.1.2
-	github.com/pkg/errors v0.9.1
+	github.com/pkg/errors v0.9.
 )
