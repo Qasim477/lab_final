@@ -1,4 +1,5 @@
-// Import BenchmarkBase class.
+
+  // Import BenchmarkBase class.
 import 'package:benchmark_harness/benchmark_harness.dart';
 import 'package:gitjournal/utils/markdown.dart';
 
