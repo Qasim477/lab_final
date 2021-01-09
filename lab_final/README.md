@@ -1,5 +1,5 @@
 # lab_final
-# icons
+# icon
 
 A new Flutter application.
 
