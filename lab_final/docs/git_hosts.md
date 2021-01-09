@@ -1,5 +1,4 @@
 # List of Git Hosts
-
 Git Providers -
 * GitHub
 * GitLab.org
